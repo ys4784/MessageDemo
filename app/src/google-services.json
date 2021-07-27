@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "605495013103",
+    "project_id": "messagedemo-e4edb",
+    "storage_bucket": "messagedemo-e4edb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605495013103:android:a0ee76992aca6c8b27b51a",
+        "android_client_info": {
+          "package_name": "tw.com.jingyu.messagedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605495013103-tj1is1evn0o3pvviki5g0tp6cnrmdcq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSoarZ16IXsvnvG33Dnn9SUyHAMSyF5d4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605495013103-tj1is1evn0o3pvviki5g0tp6cnrmdcq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
